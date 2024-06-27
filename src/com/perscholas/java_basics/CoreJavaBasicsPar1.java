@@ -6,8 +6,15 @@ public class CoreJavaBasicsPar1 {
         int z = 5;
         int x = y + z;
         System.out.println("+ operator resulted in " + x);
-        x = y + z;
 
 
+
+    }
+
+    public static class Main {
+        public static void main(String[] args)
+        {
+
+        }
     }
 }
